@@ -6,5 +6,3 @@ ase
 nglview
 numba
 jupyterlab
-torch==1.10
-torch-scatter
